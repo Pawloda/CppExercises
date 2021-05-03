@@ -1,0 +1,3 @@
+﻿  PolymorphismExercise.cpp
+C:\Users\Damian\Documents\C++ nauka\Polymorphism\PolymorphismExercise\PolymorphismExercise\PolymorphismExercise.cpp(25,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PolymorphismExercise.vcxproj -> C:\Users\Damian\Documents\C++ nauka\Polymorphism\PolymorphismExercise\Debug\PolymorphismExercise.exe

@@ -1,0 +1,6 @@
+﻿  ExceptionHandlingStudentExerciseProgram.cpp
+C:\Users\Damian\Documents\C++ nauka\ExceptionHandling\ExceptionHandlingStudentExerciseProgram\ExceptionHandlingStudentExerciseProgram\ExceptionHandlingStudentExerciseProgram.cpp(31,1): warning C4091: '': ignored on left of 'StackOverFlow' when no variable is declared
+C:\Users\Damian\Documents\C++ nauka\ExceptionHandling\ExceptionHandlingStudentExerciseProgram\ExceptionHandlingStudentExerciseProgram\ExceptionHandlingStudentExerciseProgram.cpp(29,14): warning C4101: 'a': unreferenced local variable
+C:\Users\Damian\Documents\C++ nauka\ExceptionHandling\ExceptionHandlingStudentExerciseProgram\ExceptionHandlingStudentExerciseProgram\ExceptionHandlingStudentExerciseProgram.cpp(44,1): warning C4091: '': ignored on left of 'StackUnderFlow' when no variable is declared
+C:\Users\Damian\Documents\C++ nauka\ExceptionHandling\ExceptionHandlingStudentExerciseProgram\ExceptionHandlingStudentExerciseProgram\ExceptionHandlingStudentExerciseProgram.cpp(42,14): warning C4101: 'a': unreferenced local variable
+  ExceptionHandlingStudentExerciseProgram.vcxproj -> C:\Users\Damian\Documents\C++ nauka\ExceptionHandling\ExceptionHandlingStudentExerciseProgram\Debug\ExceptionHandlingStudentExerciseProgram.exe

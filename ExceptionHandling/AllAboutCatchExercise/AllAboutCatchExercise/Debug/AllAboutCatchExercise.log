@@ -1,0 +1,5 @@
+﻿  AllAboutCatchExercise.cpp
+C:\Users\Damian\Documents\C++ nauka\ExceptionHandling\AllAboutCatchExercise\AllAboutCatchExercise\AllAboutCatchExercise.cpp(26,5): warning C4286: 'MyException2': is caught by base class ('MyException1') on line 22
+C:\Users\Damian\Documents\C++ nauka\ExceptionHandling\AllAboutCatchExercise\AllAboutCatchExercise\AllAboutCatchExercise.cpp(22,25): warning C4101: 'e': unreferenced local variable
+C:\Users\Damian\Documents\C++ nauka\ExceptionHandling\AllAboutCatchExercise\AllAboutCatchExercise\AllAboutCatchExercise.cpp(26,25): warning C4101: 'e': unreferenced local variable
+  AllAboutCatchExercise.vcxproj -> C:\Users\Damian\Documents\C++ nauka\ExceptionHandling\AllAboutCatchExercise\Debug\AllAboutCatchExercise.exe

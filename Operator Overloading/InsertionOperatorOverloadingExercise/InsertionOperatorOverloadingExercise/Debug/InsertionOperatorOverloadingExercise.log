@@ -1,0 +1,3 @@
+﻿  InsertionOperatorOverloadingExercise.cpp
+C:\Users\Damian\Documents\C++ nauka\Operators\InsertionOperatorOverloadingExercise\InsertionOperatorOverloadingExercise\InsertionOperatorOverloadingExercise.cpp(27,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  InsertionOperatorOverloadingExercise.vcxproj -> C:\Users\Damian\Documents\C++ nauka\Operators\InsertionOperatorOverloadingExercise\Debug\InsertionOperatorOverloadingExercise.exe

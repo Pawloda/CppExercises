@@ -1,0 +1,3 @@
+﻿  DataHidingProgram.cpp
+C:\Users\Damian\Documents\C++ nauka\Introduction to OOPS\DataHidingProgram\DataHidingProgram\DataHidingProgram.cpp(39,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DataHidingProgram.vcxproj -> C:\Users\Damian\Documents\C++ nauka\Introduction to OOPS\DataHidingProgram\Debug\DataHidingProgram.exe

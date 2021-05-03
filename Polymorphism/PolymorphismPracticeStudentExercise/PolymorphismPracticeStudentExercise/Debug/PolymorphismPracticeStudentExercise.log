@@ -1,0 +1,4 @@
+﻿  PolymorphismPracticeStudentExercise.cpp
+C:\Users\Damian\Documents\C++ nauka\Polymorphism\PolymorphismPracticeStudentExercise\PolymorphismPracticeStudentExercise\PolymorphismPracticeStudentExercise.cpp(52,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damian\Documents\C++ nauka\Polymorphism\PolymorphismPracticeStudentExercise\PolymorphismPracticeStudentExercise\PolymorphismPracticeStudentExercise.cpp(56,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PolymorphismPracticeStudentExercise.vcxproj -> C:\Users\Damian\Documents\C++ nauka\Polymorphism\PolymorphismPracticeStudentExercise\Debug\PolymorphismPracticeStudentExercise.exe

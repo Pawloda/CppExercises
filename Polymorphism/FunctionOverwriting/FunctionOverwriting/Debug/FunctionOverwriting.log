@@ -1,0 +1,3 @@
+﻿  FunctionOverwriting.cpp
+C:\Users\Damian\Documents\C++ nauka\Polymorphism\FunctionOverwriting\FunctionOverwriting\FunctionOverwriting.cpp(25,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  FunctionOverwriting.vcxproj -> C:\Users\Damian\Documents\C++ nauka\Polymorphism\FunctionOverwriting\Debug\FunctionOverwriting.exe

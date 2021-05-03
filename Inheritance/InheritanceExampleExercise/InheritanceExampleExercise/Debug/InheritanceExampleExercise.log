@@ -1,0 +1,3 @@
+﻿  InheritanceExampleExercise.cpp
+C:\Users\Damian\Documents\C++ nauka\Inheritance\InheritanceExampleExercise\InheritanceExampleExercise\InheritanceExampleExercise.cpp(42,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  InheritanceExampleExercise.vcxproj -> C:\Users\Damian\Documents\C++ nauka\Inheritance\InheritanceExampleExercise\Debug\InheritanceExampleExercise.exe

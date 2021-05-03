@@ -1,0 +1,3 @@
+﻿  CompoundConditionalProgram.cpp
+C:\Users\Damian\Documents\C++ nauka\CompoundConditionalProgram\CompoundConditionalProgram\CompoundConditionalProgram.cpp(13,11): warning C4804: '<': unsafe use of type 'bool' in operation
+  CompoundConditionalProgram.vcxproj -> C:\Users\Damian\Documents\C++ nauka\CompoundConditionalProgram\Debug\CompoundConditionalProgram.exe

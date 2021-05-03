@@ -1,0 +1,4 @@
+﻿  FindingRootsProgram.cpp
+C:\Users\Damian\Documents\C++ nauka\FindingRootsProgram\FindingRootsProgram\FindingRootsProgram.cpp(14,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damian\Documents\C++ nauka\FindingRootsProgram\FindingRootsProgram\FindingRootsProgram.cpp(15,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FindingRootsProgram.vcxproj -> C:\Users\Damian\Documents\C++ nauka\FindingRootsProgram\Debug\FindingRootsProgram.exe

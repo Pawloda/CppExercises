@@ -1,0 +1,3 @@
+﻿  ArmstrongNumberProgram.cpp
+C:\Users\Damian\source\repos\ArmstrongNumberProgram\ArmstrongNumberProgram\ArmstrongNumberProgram.cpp(20,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ArmstrongNumberProgram.vcxproj -> C:\Users\Damian\source\repos\ArmstrongNumberProgram\Debug\ArmstrongNumberProgram.exe

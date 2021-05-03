@@ -1,0 +1,4 @@
+﻿  AreaOfTriangleProgram.cpp
+C:\Users\Damian\Documents\C++ nauka\AreaOfTriangleProgram\AreaOfTriangleProgram\AreaOfTriangleProgram.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Damian\Documents\C++ nauka\AreaOfTriangleProgram\AreaOfTriangleProgram\AreaOfTriangleProgram.cpp(13,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  AreaOfTriangleProgram.vcxproj -> C:\Users\Damian\Documents\C++ nauka\AreaOfTriangleProgram\Debug\AreaOfTriangleProgram.exe

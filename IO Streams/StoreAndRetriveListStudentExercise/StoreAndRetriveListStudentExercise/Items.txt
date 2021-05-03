@@ -1,0 +1,15 @@
+Lemon
+4
+3
+Apple
+4
+5
+Carrot
+6
+5
+Banana
+6
+7
+Cucumber
+5
+3

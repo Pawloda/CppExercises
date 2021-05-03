@@ -1,0 +1,3 @@
+﻿  SpeedProgram.cpp
+C:\Users\Damian\Documents\C++ nauka\SpeedProgram\SpeedProgram\SpeedProgram.cpp(15,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SpeedProgram.vcxproj -> C:\Users\Damian\Documents\C++ nauka\SpeedProgram\Debug\SpeedProgram.exe

@@ -1,0 +1,5 @@
+﻿  NatureOfQuadraticRootsProgram.cpp
+C:\Users\Damian\Documents\C++ nauka\NatureOfQuadraticRootsProgram\NatureOfQuadraticRootsProgram\NatureOfQuadraticRootsProgram.cpp(15,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Damian\Documents\C++ nauka\NatureOfQuadraticRootsProgram\NatureOfQuadraticRootsProgram\NatureOfQuadraticRootsProgram.cpp(12,20): warning C4101: 'x1': unreferenced local variable
+C:\Users\Damian\Documents\C++ nauka\NatureOfQuadraticRootsProgram\NatureOfQuadraticRootsProgram\NatureOfQuadraticRootsProgram.cpp(12,24): warning C4101: 'x2': unreferenced local variable
+  NatureOfQuadraticRootsProgram.vcxproj -> C:\Users\Damian\Documents\C++ nauka\NatureOfQuadraticRootsProgram\Debug\NatureOfQuadraticRootsProgram.exe
